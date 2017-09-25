@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dressing()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Dressing\n
+comment1.params=v
+comment1.target=void\ AjouterVetement(Vetement)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=temp
+comment2.target=boolean\ repasser(int)
+comment3.params=
+comment3.target=void\ Afficher()
+numComments=4

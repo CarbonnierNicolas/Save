@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=numero_anonyme\ nom\ prenom\ moyenne
+comment0.target=Candidat(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Candidat\n
+comment1.params=
+comment1.target=java.lang.String\ getnumero_anonyme()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=
+comment2.target=java.lang.String\ getnom()
+comment3.params=
+comment3.target=java.lang.String\ getprenom()
+comment4.params=
+comment4.target=java.lang.String\ getmoyenne()
+numComments=5

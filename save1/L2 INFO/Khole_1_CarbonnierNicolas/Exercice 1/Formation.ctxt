@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=intitule\ date
+comment0.target=Formation(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Formation\n
+comment1.params=
+comment1.target=java.lang.String\ getDate()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=employ\u00E9
+comment2.target=boolean\ addEmploy\u00E9(Employ\u00E9)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=id\ temp\ imprime
+comment0.target=Vetement(java.lang.String,\ int,\ boolean)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Vetement\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=
+comment2.target=int\ gettemp()
+comment3.params=
+comment3.target=boolean\ getimprime()
+numComments=4

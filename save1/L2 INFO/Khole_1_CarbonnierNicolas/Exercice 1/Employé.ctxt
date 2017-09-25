@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nom\ prenom
+comment0.target=Employ\u00E9(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Employ\u00E9\n
+comment1.params=nom\ prenom\ phone
+comment1.target=Employ\u00E9(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=phone
+comment2.target=java.lang.String\ setPhone(java.lang.String)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment3.params=formation
+comment3.target=boolean\ addFormation(Formation)
+numComments=4

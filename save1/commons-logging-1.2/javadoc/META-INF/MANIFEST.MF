@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Commons Logging
+Implementation-Version: 1.2
+Implementation-Vendor-Id: commons-logging
+Built-By: tn
+Build-Jdk: 1.7.0_55
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Logging
+Created-By: Apache Maven
+Specification-Version: 1.2
+Archiver-Version: Plexus Archiver
+
